@@ -1,0 +1,15 @@
+{
+  "name": "lab4-types",
+  "version": "1.0.0",
+  "scripts": {
+    "check": "node node_modules/typescript/bin/tsc --noEmit",
+    "dev": "node node_modules/tsx/dist/cli.mjs src/main.ts"
+  },
+  "license": "ISC",
+  "description": "Лабораторная №4: типизация данных — оценка эффективности логистических маршрутов и доставки",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
