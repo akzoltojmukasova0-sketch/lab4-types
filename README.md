@@ -25,7 +25,6 @@ src/
 ├── api.ts      # parseDeliveryResponse, getDelivery (fetch)
 └── main.ts     # демонстрация
 docs/compiler-errors.md  # журнал ошибок компилятора и работы с ИИ
-docs/schema.drawio       # схема (draw.io): архитектура, ER-схема, DTO
 ```
 
 
