@@ -28,15 +28,6 @@ docs/compiler-errors.md  # журнал ошибок компилятора и �
 docs/schema.drawio       # схема (draw.io): архитектура, ER-схема, DTO
 ```
 
-## Схема
-
-Исходник: [docs/schema.drawio](docs/schema.drawio) (открывается в app.diagrams.net или draw.io Desktop).
-
-![Архитектура и слой типов](docs/schema-arch.png)
-
-![ER-схема](docs/schema-er.png)
-
-![Сущности и DTO](docs/schema-dto.png)
 
 ## Типы
 
